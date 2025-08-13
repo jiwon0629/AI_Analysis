@@ -1,1 +1,3 @@
-# AI_Analysis
+# AI_Analysis  
+
+심층 데이터 분석을 통한 서비스 솔루션 개발자 과정
